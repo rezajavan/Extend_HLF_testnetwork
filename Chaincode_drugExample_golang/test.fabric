@@ -1,0 +1,24 @@
+[
+    {
+        "invoke":"InitLedger",
+        "args": []
+    },
+
+    {
+        "invoke": "AddDrug",
+        "args": ["id11","name11",100,"2023-10-12","2025-10-15"]
+    },
+    {
+        "invoke": "GetAllDrugs",
+        "args": []
+    },
+    {
+        "invoke":"SellDrug",
+        "args": ["01","8"]
+    },
+    {
+        "invoke":"GetDrug",
+        "args": ["01"]
+    }
+
+]
