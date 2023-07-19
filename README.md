@@ -8,7 +8,7 @@ command 1: curl -sSLO https://raw.githubusercontent.com/hyperledger/fabric/main/
 
 command 2:./install-fabric.sh  --fabric-version 2.2.1 docker samples binary)
 
-step 2: Please be confident that all things work correctly ok by doing successful step-by-step commands in this link: https://hyperledger-fabric.readthedocs.io/en/latest/test_network.html#using-the-fabric-test-network 
+step 2: Please be confident that all things work correctly by doing successful step-by-step commands in this link: https://hyperledger-fabric.readthedocs.io/en/latest/test_network.html#using-the-fabric-test-network 
 
 step 3: go to where "fabric-sample" is located, for example, if the address of "fabric-sample" is "/home/file1/fabric-sample", go to /home/file1, then clone this repository.
 
