@@ -1,0 +1,92 @@
+Container: dev-peer0.org1.example.com-basic_1.0-fed8a62a32b9bc8ca8542427cb2b6a4d823755ad1cff77456586aafeca504428
+Average CPU Usage %: 2.8282421874999994%
+Average Memory Usage (MiB) : 11.368062499999999
+
+Container: dev-peer0.org2.example.com-basic_1.0-fed8a62a32b9bc8ca8542427cb2b6a4d823755ad1cff77456586aafeca504428
+Average CPU Usage %: 0.0009765625%
+Average Memory Usage (MiB) : 5.757750000000003
+
+Container: dev-peer1.org1.example.com-basic_1.0-fed8a62a32b9bc8ca8542427cb2b6a4d823755ad1cff77456586aafeca504428
+Average CPU Usage %: 2.845351562499999%
+Average Memory Usage (MiB) : 8.9389375
+
+Container: dev-peer3.org1.example.com-basic_1.0-fed8a62a32b9bc8ca8542427cb2b6a4d823755ad1cff77456586aafeca504428
+Average CPU Usage %: 2.8467578125000004%
+Average Memory Usage (MiB) : 8.90696875
+
+Container: dev-peer2.org2.example.com-basic_1.0-fed8a62a32b9bc8ca8542427cb2b6a4d823755ad1cff77456586aafeca504428
+Average CPU Usage %: 3.90625e-05%
+Average Memory Usage (MiB) : 4.938749999999999
+
+Container: dev-peer1.org2.example.com-basic_1.0-fed8a62a32b9bc8ca8542427cb2b6a4d823755ad1cff77456586aafeca504428
+Average CPU Usage %: 3.90625e-05%
+Average Memory Usage (MiB) : 5.0855
+
+Container: dev-peer2.org1.example.com-basic_1.0-fed8a62a32b9bc8ca8542427cb2b6a4d823755ad1cff77456586aafeca504428
+Average CPU Usage %: 2.9466015625000006%
+Average Memory Usage (MiB) : 8.866218749999998
+
+Container: dev-peer3.org2.example.com-basic_1.0-fed8a62a32b9bc8ca8542427cb2b6a4d823755ad1cff77456586aafeca504428
+Average CPU Usage %: 3.90625e-05%
+Average Memory Usage (MiB) : 5.2205
+
+Container: peer3.org2.example.com
+Average CPU Usage %: 0.18195312500000002%
+Average Memory Usage (MiB) : 90.30343749999999
+
+Container: peer2.org2.example.com
+Average CPU Usage %: 0.19214843750000005%
+Average Memory Usage (MiB) : 85.61781250000001
+
+Container: peer1.org2.example.com
+Average CPU Usage %: 0.18265625%
+Average Memory Usage (MiB) : 84.93781249999999
+
+Container: peer3.org1.example.com
+Average CPU Usage %: 1.4878906250000004%
+Average Memory Usage (MiB) : 92.356875
+
+Container: peer2.org1.example.com
+Average CPU Usage %: 1.5358984375000002%
+Average Memory Usage (MiB) : 85.609375
+
+Container: peer1.org1.example.com
+Average CPU Usage %: 1.5258984374999995%
+Average Memory Usage (MiB) : 90.20031249999997
+
+Container: cli
+Average CPU Usage %: 0.0%
+Average Memory Usage (MiB) : 1.07
+
+Container: peer0.org1.example.com
+Average CPU Usage %: 5.193125%
+Average Memory Usage (MiB) : 123.29218750000001
+
+Container: peer0.org2.example.com
+Average CPU Usage %: 0.19042968750000003%
+Average Memory Usage (MiB) : 76.38625
+
+Container: couchdb0
+Average CPU Usage %: 18.6382421875%
+Average Memory Usage (MiB) : 95.40281249999998
+
+Container: couchdb1
+Average CPU Usage %: 0.20339843749999997%
+Average Memory Usage (MiB) : 55.45000000000003
+
+Container: orderer.example.com
+Average CPU Usage %: 0.011874999999999998%
+Average Memory Usage (MiB) : 14.768437499999997
+
+Container: ca_org2
+Average CPU Usage %: 0.0018359375%
+Average Memory Usage (MiB) : 7.198812500000002
+
+Container: ca_orderer
+Average CPU Usage %: 0.0027734375%
+Average Memory Usage (MiB) : 7.172718749999994
+
+Container: ca_org1
+Average CPU Usage %: 0.0%
+Average Memory Usage (MiB) : 7.135625000000005
+

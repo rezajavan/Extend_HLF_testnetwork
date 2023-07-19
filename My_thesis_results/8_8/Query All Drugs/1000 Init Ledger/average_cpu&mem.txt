@@ -1,0 +1,156 @@
+Container: dev-peer0.org1.example.com-basic_1.0-5888a1b6a788a537cf2b46cb928c59bbb52e5df079b509a9f561584935c51671
+Average CPU Usage %: 1.5060817307692307%
+Average Memory Usage (MiB) : 10.500999999999998
+
+Container: dev-peer4.org1.example.com-basic_1.0-5888a1b6a788a537cf2b46cb928c59bbb52e5df079b509a9f561584935c51671
+Average CPU Usage %: 1.778822115384616%
+Average Memory Usage (MiB) : 9.834038461538459
+
+Container: dev-peer2.org2.example.com-basic_1.0-5888a1b6a788a537cf2b46cb928c59bbb52e5df079b509a9f561584935c51671
+Average CPU Usage %: 0.0016105769230769231%
+Average Memory Usage (MiB) : 5.011269230769226
+
+Container: dev-peer4.org2.example.com-basic_1.0-5888a1b6a788a537cf2b46cb928c59bbb52e5df079b509a9f561584935c51671
+Average CPU Usage %: 0.0020192307692307693%
+Average Memory Usage (MiB) : 5.135807692307692
+
+Container: dev-peer7.org2.example.com-basic_1.0-5888a1b6a788a537cf2b46cb928c59bbb52e5df079b509a9f561584935c51671
+Average CPU Usage %: 0.00040865384615384624%
+Average Memory Usage (MiB) : 4.965384615384609
+
+Container: dev-peer5.org2.example.com-basic_1.0-5888a1b6a788a537cf2b46cb928c59bbb52e5df079b509a9f561584935c51671
+Average CPU Usage %: 0.00043269230769230765%
+Average Memory Usage (MiB) : 5.176884615384618
+
+Container: dev-peer0.org2.example.com-basic_1.0-5888a1b6a788a537cf2b46cb928c59bbb52e5df079b509a9f561584935c51671
+Average CPU Usage %: 9.615384615384615e-05%
+Average Memory Usage (MiB) : 6.037846153846159
+
+Container: dev-peer3.org1.example.com-basic_1.0-5888a1b6a788a537cf2b46cb928c59bbb52e5df079b509a9f561584935c51671
+Average CPU Usage %: 1.750456730769231%
+Average Memory Usage (MiB) : 9.481615384615383
+
+Container: dev-peer7.org1.example.com-basic_1.0-5888a1b6a788a537cf2b46cb928c59bbb52e5df079b509a9f561584935c51671
+Average CPU Usage %: 1.8258653846153843%
+Average Memory Usage (MiB) : 9.93428846153846
+
+Container: dev-peer2.org1.example.com-basic_1.0-5888a1b6a788a537cf2b46cb928c59bbb52e5df079b509a9f561584935c51671
+Average CPU Usage %: 1.7425961538461539%
+Average Memory Usage (MiB) : 9.534076923076926
+
+Container: dev-peer5.org1.example.com-basic_1.0-5888a1b6a788a537cf2b46cb928c59bbb52e5df079b509a9f561584935c51671
+Average CPU Usage %: 1.810408653846154%
+Average Memory Usage (MiB) : 9.554653846153844
+
+Container: dev-peer1.org1.example.com-basic_1.0-5888a1b6a788a537cf2b46cb928c59bbb52e5df079b509a9f561584935c51671
+Average CPU Usage %: 1.7580528846153844%
+Average Memory Usage (MiB) : 9.651865384615386
+
+Container: dev-peer1.org2.example.com-basic_1.0-5888a1b6a788a537cf2b46cb928c59bbb52e5df079b509a9f561584935c51671
+Average CPU Usage %: 0.0003846153846153846%
+Average Memory Usage (MiB) : 5.361961538461539
+
+Container: dev-peer6.org2.example.com-basic_1.0-5888a1b6a788a537cf2b46cb928c59bbb52e5df079b509a9f561584935c51671
+Average CPU Usage %: 4.807692307692308e-05%
+Average Memory Usage (MiB) : 5.107807692307694
+
+Container: dev-peer6.org1.example.com-basic_1.0-5888a1b6a788a537cf2b46cb928c59bbb52e5df079b509a9f561584935c51671
+Average CPU Usage %: 1.746057692307693%
+Average Memory Usage (MiB) : 9.805769230769231
+
+Container: dev-peer3.org2.example.com-basic_1.0-5888a1b6a788a537cf2b46cb928c59bbb52e5df079b509a9f561584935c51671
+Average CPU Usage %: 0.0018028846153846155%
+Average Memory Usage (MiB) : 5.225846153846159
+
+Container: peer7.org2.example.com
+Average CPU Usage %: 0.3446634615384615%
+Average Memory Usage (MiB) : 80.7378846153846
+
+Container: peer6.org2.example.com
+Average CPU Usage %: 0.33521634615384605%
+Average Memory Usage (MiB) : 89.81653846153846
+
+Container: peer5.org2.example.com
+Average CPU Usage %: 0.3597836538461538%
+Average Memory Usage (MiB) : 83.39596153846153
+
+Container: peer4.org2.example.com
+Average CPU Usage %: 0.2827644230769231%
+Average Memory Usage (MiB) : 105.50769230769235
+
+Container: peer3.org2.example.com
+Average CPU Usage %: 0.33468749999999997%
+Average Memory Usage (MiB) : 103.6134615384616
+
+Container: peer2.org2.example.com
+Average CPU Usage %: 0.3214182692307693%
+Average Memory Usage (MiB) : 84.3607692307692
+
+Container: peer1.org2.example.com
+Average CPU Usage %: 0.34358173076923076%
+Average Memory Usage (MiB) : 100.01519230769239
+
+Container: peer7.org1.example.com
+Average CPU Usage %: 1.000889423076923%
+Average Memory Usage (MiB) : 113.77692307692301
+
+Container: peer6.org1.example.com
+Average CPU Usage %: 0.9858173076923079%
+Average Memory Usage (MiB) : 106.76692307692305
+
+Container: peer5.org1.example.com
+Average CPU Usage %: 0.9975961538461539%
+Average Memory Usage (MiB) : 107.28115384615386
+
+Container: peer4.org1.example.com
+Average CPU Usage %: 0.9831971153846152%
+Average Memory Usage (MiB) : 109.76403846153848
+
+Container: peer3.org1.example.com
+Average CPU Usage %: 1.0063461538461538%
+Average Memory Usage (MiB) : 113.97499999999997
+
+Container: peer2.org1.example.com
+Average CPU Usage %: 1.0418749999999997%
+Average Memory Usage (MiB) : 126.64423076923077
+
+Container: peer1.org1.example.com
+Average CPU Usage %: 0.9899759615384615%
+Average Memory Usage (MiB) : 119.21153846153841
+
+Container: cli
+Average CPU Usage %: 0.0%
+Average Memory Usage (MiB) : 1.066000000000001
+
+Container: peer0.org1.example.com
+Average CPU Usage %: 2.755865384615384%
+Average Memory Usage (MiB) : 144.98653846153846
+
+Container: peer0.org2.example.com
+Average CPU Usage %: 0.30644230769230774%
+Average Memory Usage (MiB) : 82.35307692307688
+
+Container: couchdb0
+Average CPU Usage %: 11.624230769230767%
+Average Memory Usage (MiB) : 96.89230769230772
+
+Container: couchdb1
+Average CPU Usage %: 0.2550240384615385%
+Average Memory Usage (MiB) : 58.8282692307692
+
+Container: orderer.example.com
+Average CPU Usage %: 0.009158653846153844%
+Average Memory Usage (MiB) : 22.474807692307685
+
+Container: ca_orderer
+Average CPU Usage %: 0.0%
+Average Memory Usage (MiB) : 7.222326923076933
+
+Container: ca_org2
+Average CPU Usage %: 0.0014903846153846154%
+Average Memory Usage (MiB) : 7.319769230769226
+
+Container: ca_org1
+Average CPU Usage %: 0.002572115384615385%
+Average Memory Usage (MiB) : 7.276307692307695
+
