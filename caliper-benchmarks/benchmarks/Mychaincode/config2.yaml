@@ -1,0 +1,17 @@
+test:
+  workers:
+    number: 5
+  rounds:
+# for 1000 should be tps is 60 // for 2000 is 30
+  
+     - label: Get All Drugs
+       txNumber: 10000
+       rateControl:
+           type: maximum-rate
+           opts:
+             tps: 35
+             step: 5
+             sampleInterval: 5
+             includeFailed: true
+       workload:
+         module: benchmarks/Mychaincode/GetAllDrugs.js

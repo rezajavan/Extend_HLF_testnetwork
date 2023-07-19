@@ -1,0 +1,44 @@
+test:
+  workers:
+    number: 20
+  rounds:
+
+  
+     - label: Add drugs
+       txNumber: 5000
+       rateControl:
+           type: maximum-rate
+           opts:
+             tps: 70
+             step: 10
+             sampleInterval: 10
+             includeFailed: true
+       workload:
+         module: benchmarks/Mychaincode/AddDrug.js
+        
+    #- label: Change car owner.
+    #  txDuration: 1
+    #  rateControl:
+    #      type: fixed-load
+    #      opts:
+    #        transactionLoad: 5
+    #  workload:
+    #    module: benchmarks/samples/fabric/fabcar/changeCarOwner.js
+    #    arguments:
+    #      assets: 5
+    #- label: Query all Drugs.
+      #txDuration: 1
+    #  txNumber: 2000
+    #  rateControl:
+    #      type: fixed-load
+    #      opts:
+    #        transactionLoad: 5
+    #  workload:
+    #    module: benchmarks/Mychaincode/GetAllDrugs.js
+    #    arguments:
+    #      assets: 5
+    #      startKey: '1'
+    #      endKey: '50'
+
+
+      
