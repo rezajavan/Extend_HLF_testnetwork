@@ -3,7 +3,7 @@
 ./network.sh up createChannel -s couchdb -ca
 export PATH=${PWD}/../bin:$PATH
 export FABRIC_CFG_PATH=$PWD/../config/
-peer lifecycle chaincode package fabcar.tar.gz --path ../../caliper-benchmarks/src/fabric/samples/fabcar/go --lang golang --label fabcar_1.0
+
 
 #add peers to org1
 	#add peer1org1
