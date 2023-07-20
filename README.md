@@ -7,7 +7,7 @@ step 1: Install hyper ledger fabric version 2.2.1.
 
 ~~~
 curl -sSLO https://raw.githubusercontent.com/hyperledger/fabric/main/scripts/install-fabric.sh && chmod +x install-fabric.sh
-./install-fabric.sh  --fabric-version 2.2.1 docker samples binary)
+./install-fabric.sh  --fabric-version 2.2.1 docker samples binary
 ~~~
 - make sure test-network works correctly
   
