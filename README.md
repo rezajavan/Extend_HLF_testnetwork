@@ -13,14 +13,14 @@ Follow the step-by-step instructions detailed in [this link](https://hyperledger
 ## Extend test-network
 - clone this repository
   
-step 3: go to the location where the fabric-sample directory is located. For example, if the address of the fabric-sample directory is /home/file1/fabric-sample, go to /home/file1, then clone the master branch of this repository.
+step 3: go to the location where the fabric-sample directory is located. For example, if the address of the fabric-sample directory is ""/home/file1/fabric-sample"", go to ""/home/file1"", then clone the master branch of this repository.
 
 step 4: In the "Extend_HLF_testnetwork" folder repository, open a terminal and run the following command:
 ~~~
 ./mergefiles.sh
 ~~~
 
-step 5: Execute the desired setup_?_?.sh script(s) in the fabric-sample/test-network directory using the following command format:
+step 5: Execute the desired setup_?_?.sh script(s) in the ""fabric-sample/test-network"" directory using the following command format:
 ~~~
 ./setup_?_?.sh
 ~~~
