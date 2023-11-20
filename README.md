@@ -3,11 +3,12 @@ This repository demonstrates the setup and expansion of Hyperledger Fabric test 
 
 Organization Structures:
 Configurations:
-                4 peers in Organization 1, 1 peer in Organization 2
-                4 peers in Organization 1, 4 peers in Organization 2
-                8 peers in Organization 1, 1 peer in Organization 2
-                8 peers in Organization 1, 4 peers in Organization 2
-                8 peers in Organization 1, 8 peers in Organization 2
+
+* 4 peers in Organization 1, 1 peer in Organization 2                
+* 4 peers in Organization 1, 4 peers in Organization 2
+* 8 peers in Organization 1, 1 peer in Organization 2
+* 8 peers in Organization 1, 4 peers in Organization 2
+* 8 peers in Organization 1, 8 peers in Organization 2
 
 Branches:
 
