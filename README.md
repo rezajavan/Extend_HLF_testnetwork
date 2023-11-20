@@ -1,4 +1,26 @@
 # Extend_HLF_testnetwork
+This repository demonstrates the setup and expansion of Hyperledger Fabric test networks with varying organizational structures. The network configurations include:
+
+Organization Structures:
+Configurations:
+                4 peers in Organization 1, 1 peer in Organization 2
+                4 peers in Organization 1, 4 peers in Organization 2
+                8 peers in Organization 1, 1 peer in Organization 2
+                8 peers in Organization 1, 4 peers in Organization 2
+                8 peers in Organization 1, 8 peers in Organization 2
+
+Branches:
+
+* master branch: Sets up and configures these networks.
+
+* setupFabcar branch: Installs Fabcar chaincode across each network configuration and conducts performance tests using caliper-benchmarks.
+
+* setupDrug branch: Similar to setupFabcar, but employs chaincode tailored for drug supply chain management.
+
+* Each branch provides a specific setup and testing environment for different chaincodes, facilitating performance evaluation and use-case exploration within distinct network structures.
+
+-----------------------------------
+
 ## Installing Hyperledger Fabric test-network
 - Install test-network
   
