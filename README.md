@@ -16,7 +16,7 @@ Branches:
 
 * setupFabcar branch: Installs Fabcar chaincode across each network configuration and conducts performance tests using caliper-benchmarks.
 
-* setupDrug branch: Similar to setupFabcar, but employs chaincode tailored for drug supply chain management.
+* setupDrug branch: Similar to setupFabcar, but employs chaincode tailored for drug supply chain management that we coded.
 
 * Each branch provides a specific setup and testing environment for different chaincodes, facilitating performance evaluation and use-case exploration within distinct network structures.
 
