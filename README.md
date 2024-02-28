@@ -50,6 +50,12 @@ step 5: Execute the desired setup_?_?.sh script(s) in the ""fabric-sample/test-n
 Replace '?' with the desired script identifier to proceed.
 
 
+## Citation
 
+This repository contains code associated with the research paper:
+
+    Title of your paper: https://arxiv.org/abs/2402.17342
+
+If you use the code in your research, please consider citing the paper.
 
 
